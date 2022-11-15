@@ -10,5 +10,5 @@ public interface Contract {
     Number grow();
     void rest();
     void undo();
-
+ 
 }
